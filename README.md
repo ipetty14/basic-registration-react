@@ -1,4 +1,4 @@
-# Parenthesis Checker
+# Registration App
 
 A basic registration form with validation.
 ## Getting Started
